@@ -5,8 +5,11 @@
 // Sayhello();
 
 
-const hello =  ()=> {
-    console.log('hello my name');
-}
+// const hello =  ()=> {
+//     console.log('hello my name');
+// }
 
-hello();
+// hello();
+
+//let age = 30;
+console.log('30'===30);
